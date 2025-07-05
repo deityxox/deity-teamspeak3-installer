@@ -12,15 +12,15 @@ wget https://raw.githubusercontent.com/deityxox/deity-teamspeak3-installer/maste
 ```
 Change the user variables if necessary
 ```bash
-nano install_ts3-server.sh
+nano deityInstall_ts3-server.sh
 ```
 Make the script executable
 ```bash
-chmod a+x install_ts3-server.sh
+chmod a+x deityInstall_ts3-server.sh
 ```
 Run the script
 ```bash
-sudo ./install_ts3-server.sh
+sudo ./deityInstall_ts3-server.sh
 ```
 To start, stop, restart, or check the status of the ts3-server use
 ```bash
