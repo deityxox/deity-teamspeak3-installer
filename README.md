@@ -8,7 +8,7 @@
 ### How to use:
 Download or copy the script and paste it into a new file
 ```bash
-wget https://raw.githubusercontent.com/rcguy/install_ts3-server/master/install_ts3-server.sh
+wget https://raw.githubusercontent.com/deityxox/deity-teamspeak3-installer/master/deityInstall_ts3-server.sh
 ```
 Change the user variables if necessary
 ```bash
